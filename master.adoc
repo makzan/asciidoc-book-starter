@@ -1,0 +1,14 @@
+= Sample Book
+Author Name <author@example.com>
+v1.0, October 4, 2015: First Draft
+:doctype: book
+:docinfo:
+:toc: left
+:toclevels: 2
+:sectnums:
+:linkcss:
+
+An sample book to show case AsciiDoctor folder structure.
+
+include::book/chapter-1/chapter-1.adoc[leveloffset=+1]
+include::book/chapter-2/chapter-2.adoc[leveloffset=+1]
