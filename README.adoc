@@ -4,11 +4,15 @@ This is the starter folder structure for writing book with AsciiDoc.
 
 Inspired by https://github.com/progit/progit2[Pro Git 2].
 
+== Installation
+
+Install the gems via `bundle install`.
+
 == Building
 
-run `rake` to build book.
+run `bundle exec rake` to build book.
 
-run `rake book:build_chapter_html` to build each chapter into HTML file.
+run `bundle exec rake book:build_chapter_html` to build each chapter into HTML file.
 
 == Lincense
 
